@@ -11,7 +11,7 @@
 
 
 ## Tiers
-This achievement not only has the base version but also tiers
+This achievement not only has the base version but also tiers.
 
 <table>
     <tr>
